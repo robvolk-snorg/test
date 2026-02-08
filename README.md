@@ -7,3 +7,4 @@
 - Simplify commands, keep flexibility for client needs
 - skills tracking
 - Maximize utility from simple data elements checked into source control
+- Plan projects and presentations
